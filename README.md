@@ -1,3 +1,7 @@
+# The book
+
+![Book](https://github.com/stoimen/infographics/blob/master/book/Algorithms_as_Infographics.pdf) is growing ;)
+
 # Why algorithms
 
 The general knowledge on algorithms fades over the years. Knowing their basic principles could be crutials during the entire career of software engineer.
