@@ -5,3 +5,11 @@ The general knowledge on algorithms fades over the years. Knowing their basic pr
 # Why infographics
 
 There are thousands implementations of algorithms and data structures online. And all of them could depend on programming language or specifics of the data. However, most important goal of this project is to present the principles behind the basic algorithms. Useful for preparing for an interview or an exam.
+
+1. Array
+
+![Array](https://github.com/stoimen/infographics/blob/master/Array.png)
+
+2. Linked List
+
+![Linked List](https://github.com/stoimen/infographics/blob/master/Linked_List.png)
