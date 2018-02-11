@@ -21,3 +21,7 @@ There are thousands implementations of algorithms and data structures online. An
 ## 3. Stack and Queue
 
 ![Stack & Queue](https://github.com/stoimen/infographics/blob/master/Stack_Queue.png)
+
+## 4. Tree
+
+![Tree](https://github.com/stoimen/infographics/blob/master/Tree.png)
