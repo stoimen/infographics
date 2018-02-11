@@ -4,7 +4,7 @@
 
 # Why algorithms
 
-The general knowledge on algorithms fades over the years. Knowing their basic principles could be crutials during the entire career of software engineer.
+The general knowledge on algorithms fades over the years. Knowing their basic principles could be crutial during the entire career of software engineer.
 
 # Why infographics
 
