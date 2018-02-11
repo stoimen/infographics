@@ -1,6 +1,6 @@
 # The book
 
-![Book](https://github.com/stoimen/infographics/blob/master/book/Algorithms_as_Infographics.pdf) is growing ;)
+[the Book](https://github.com/stoimen/infographics/blob/master/book/Algorithms_as_Infographics.pdf) is growing ;)
 
 # Why algorithms
 
